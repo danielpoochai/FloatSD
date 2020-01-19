@@ -3,7 +3,7 @@
 ### Prerequisite
 [Install QPytorch]:https://github.com/Tiiiger/QPyTorch
 ```
-$pip install qtorch
+$pip3 install qtorch
 ```
 ### Before Training
 ```
